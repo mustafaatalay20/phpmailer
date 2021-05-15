@@ -1,1 +1,1 @@
-# phpmailer
+# uyelikaktivasyon
